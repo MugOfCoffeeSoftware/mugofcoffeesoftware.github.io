@@ -1,0 +1,17 @@
+---
+interface Props {
+    name: string,
+    description: string
+}
+
+const { name, description } = Astro.props;
+---
+
+<div class="rounded-md md:w-xl w-full self-center shadow-md border-slate-200 border min-h-24 flex items-center flex-col md:flex-row">
+        <div class="md:border-r border-slate-300 md:w-32 text-center max-md:border-b w-full max-md:pt-2 max-md:pb-2">
+            <h2 class="text-2xl">{name}</h2>
+        </div>
+        <div class="md:pl-4 max-md:pt-4 max-md:pb-4">
+            <span class="font-sans">{description}</span>
+        </div>
+</div>

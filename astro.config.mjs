@@ -8,5 +8,8 @@ export default defineConfig({
         plugins: [
             tailwindcss()
         ]
+    },
+    experimental: {
+        responsiveImages: true
     }
 });

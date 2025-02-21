@@ -1,0 +1,8 @@
+---
+import { Picture } from "astro:assets"
+---
+
+<!--  <Picture src={headerImageUrl} alt="A coffee mug on a wooden table" layout="responsive" class="object-scale-down h-56"/> -->
+<div class="h-96 bg-cover bg-center flex justify-center items-center" style=`background-image: url("/coffee-header.jpg");`>
+    <slot />
+</div>
