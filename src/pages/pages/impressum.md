@@ -1,18 +1,23 @@
 ---
 layout: '../../layouts/PageLayout.astro'
-title: Impressum
+title: Impressum / Legal Notice
 ---
 
-## Mug of Coffee Software GmbH
+**Mug of Coffee Software GmbH**
 
-Corrensstraße 25 <br>
-72076 Tübingen <br>
-Tel: 07071/9196966 <br>
-Email: info@mugofcoffee.de
+Corrensstraße 25<br>
+72076 Tübingen<br>
+Deutschland
+  
+E-Mail: info@mugofcoffee.de
 
+Sitz in Tübingen
 
-HRB 797969 <br>
-Handelsregister B des Amtsgerichts Stuttgart <br>
-Sitz Tübingen <br>
+Vertretungsberechtiger Geschäftsführer: Dr. Frank Schäfer  
 
-USt-IdNr. DE451248146
+Registergericht: Amtsgerichts Stuttgart HRB 797969
+
+Umsatzsteuer-Identifikationsnummer: DE451248146
+
+Verantwortlicher im Sinne des §18 Abs. 2 Medienstaatsvertrag (MStV):  
+Dr. Frank Schäfer (Anschrift s.o.)
