@@ -12,5 +12,5 @@ export default defineConfig({
     experimental: {
         responsiveImages: true
     },
-    site: "https://mugofcoffee.github.io"
+    site: "https://mugofcoffee.de"
 });
