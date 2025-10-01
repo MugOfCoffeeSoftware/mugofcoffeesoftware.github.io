@@ -9,8 +9,5 @@ export default defineConfig({
             tailwindcss()
         ]
     },
-    experimental: {
-        responsiveImages: true
-    },
     site: "https://mugofcoffee.de"
 });

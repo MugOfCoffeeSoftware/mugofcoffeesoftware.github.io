@@ -11,7 +11,7 @@ const allProjects = await getCollection("projects");
         <div class="flex flex-col gap-4">
             {allProjects.map(project => 
                 (
-                    <ProjectCard name={project.data.name} description={project.data.description}/>
+                    <ProjectCard name={project.data.name} description={project.data.description} cover={project.data.cover} url={project.data.url}/>
                 )
             )}
         </div>
